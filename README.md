@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on a [Deep Learning and computer vision project]
+- 🔭 I’m currently working on a [Deep Learning and computer vision projects]
 - 🌱 I’m learning advanced machine learning techniques and deep learning models
 - 👯 I’m looking to collaborate on open-source projects related to AI and data science
 - 🤔 I’m interested in solving real-world problems using data and AI
