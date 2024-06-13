@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on a [Data Analysis project focused on Tab phone pricing]
+- 🔭 I’m currently working on a [Deep Learning and computer vision project]
 - 🌱 I’m learning advanced machine learning techniques and deep learning models
 - 👯 I’m looking to collaborate on open-source projects related to AI and data science
 - 🤔 I’m interested in solving real-world problems using data and AI
@@ -28,28 +28,29 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
   - Trained and evaluated models: Naive Bayes, Logistic Regression, and XGBoost.
   - Developed and deployed a real-time sentiment analysis app with Streamlit.
   - Achieved 83% accuracy in sentiment classification.
-  - [Project Repository]([https://github.com/your-repo-link](https://github.com/MadasuLaxman/Hackathon_Sentimental_Analysis))
+  - [Project Repository](https://github.com/MadasuLaxman/Hackathon_Sentimental_Analysis)
 
-- **IPL Analytics and Prediction Dashboard:**
-  - Developed an interactive dashboard using Streamlit
-  - Implemented match analysis, player statistics, and predictive analytics
-  - [Project Repository](https://github.com/your-repo-link)
+- **Regex Matching Web App Development using Flask:**
+  - Developed and deployed a regex matching web app on AWS EC2.
+  - Implemented regex testing and email validation features.
+  - Ensured application security and data privacy.
+  - [Project Repository](https://github.com/MadasuLaxman/Internship)
 
 - **AI code reviewer:**
   - Clean Streamlit UI for easy code submission.
   - Utilized GeminiAI API for accurate code analysis.
   - Identified bugs and provided suggestions for fixes.
   - Offered fixed code snippets for improved efficiency.
-  - [Project Repository]([https://github.com/your-repo-link](https://github.com/MadasuLaxman/python_code_Reviewer))
+  - [Project Repository](https://github.com/MadasuLaxman/python_code_Reviewer)
 
 ## 📚 Blog Posts
 
-- [AI vs ML vs DL (Machine Learning, Artificial Intelligence, Deep Learning)]([https://your-blog-link](https://medium.com/@madasulaxman028/ai-vs-ml-vs-dl-machine-learning-artificial-intelligence-deep-learning-eb732079aa5d))
-- [Working with Text Data: Text-preprocessing]([https://your-blog-link](https://medium.com/@madasulaxman028/working-with-text-data-text-preprocessing-5407c19407a9))
+- [AI vs ML vs DL (Machine Learning, Artificial Intelligence, Deep Learning)](https://medium.com/@madasulaxman028/ai-vs-ml-vs-dl-machine-learning-artificial-intelligence-deep-learning-eb732079aa5d)
+- [Working with Text Data: Text-preprocessing](https://medium.com/@madasulaxman028/working-with-text-data-text-preprocessing-5407c19407a9)
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/laxmanmadasu/))
-- [Medium]([https://medium.com/@your-medium-handle](https://medium.com/@madasulaxman028))
+- [LinkedIn](https://www.linkedin.com/in/laxmanmadasu/)
+- [Medium](https://medium.com/@madasulaxman028)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about data science and AI.
