@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on a [Data Analysis project focused on Tab phone pricing](https://github.com/your-repo-link)
+- 🔭 I’m currently working on a [Data Analysis project focused on Tab phone pricing]
 - 🌱 I’m learning advanced machine learning techniques and deep learning models
 - 👯 I’m looking to collaborate on open-source projects related to AI and data science
 - 🤔 I’m interested in solving real-world problems using data and AI
@@ -16,25 +16,31 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 
 - **Programming Languages:** Python, SQL
 - **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Machine Learning and Deep Learning:** Scikit-Learn, TensorFlow, Keras
+- **Machine Learning and Deep Learning:** Scikit-Learn, TensorFlow, Keras, opencv, NLP
 - **Web Development:** Flask, Streamlit
 - **DevOps:** AWS (EC2)
 
 ## 📘 Projects and Achievements
 
-- **Sentiment Analysis on Flipkart Product Reviews:**
-  - Built a real-time sentiment analysis system using NLP techniques
-  - Scraped data using BeautifulSoup and deployed the model on AWS EC2
-  - [Project Repository](https://github.com/your-repo-link)
+- **Sentiment Analysis of Hotel Reviews:**
+  - Analyzed hotel reviews for sentiment classification using machine learning techniques.
+  - Preprocessed text data and extracted features with BoW, TF-IDF, and Word2Vec.
+  - Trained and evaluated models: Naive Bayes, Logistic Regression, and XGBoost.
+  - Developed and deployed a real-time sentiment analysis app with Streamlit.
+  - Achieved 83% accuracy in sentiment classification.
+  - [Project Repository]([https://github.com/your-repo-link](https://github.com/MadasuLaxman/Hackathon_Sentimental_Analysis))
 
 - **IPL Analytics and Prediction Dashboard:**
   - Developed an interactive dashboard using Streamlit
   - Implemented match analysis, player statistics, and predictive analytics
   - [Project Repository](https://github.com/your-repo-link)
 
-- **Fake News Prediction Application:**
-  - Created a Streamlit app for fake news detection using KNN, Bernoulli Naive Bayes, and Multinomial Naive Bayes algorithms
-  - [Project Repository](https://github.com/your-repo-link)
+- **AI code reviewer:**
+  - Clean Streamlit UI for easy code submission.
+  - Utilized GeminiAI API for accurate code analysis.
+  - Identified bugs and provided suggestions for fixes.
+  - Offered fixed code snippets for improved efficiency.
+  - [Project Repository]([https://github.com/your-repo-link](https://github.com/MadasuLaxman/python_code_Reviewer))
 
 ## 📚 Blog Posts
 
