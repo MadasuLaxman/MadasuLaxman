@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 - 👯 I’m looking to collaborate on open-source projects related to AI and data science
 - 🤔 I’m interested in solving real-world problems using data and AI
 - 💬 Ask me about Python, Machine Learning, Deep Learning, and Data Visualization.
-- 📫 How to reach me:(mailto:madasulaxman028@.com)
+- 📫 How to reach me:(mail to:madasulaxman028@.com)
 - ⚡ Fun fact: I love exploring new technologies and applying them to solve interesting problems
 
 ## 🚀 Skills and Tools
