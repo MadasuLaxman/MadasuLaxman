@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on a [Deep Learning and computer vision projects]
+- 🔭 I’m currently working on a [Generative AI and computer vision projects]
 - 🌱 I’m learning advanced machine learning techniques and deep learning models
 - 👯 I’m looking to collaborate on open-source projects related to AI and data science
 - 🤔 I’m interested in solving real-world problems using data and AI
@@ -15,8 +15,10 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 ## 🚀 Skills and Tools
 
 - **Programming Languages:** Python, SQL
+- **Web Scraping:** BeautifulSoup, Selenium, Scrapy
 - **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
 - **Machine Learning and Deep Learning:** Scikit-Learn, TensorFlow, Keras, opencv, NLP
+- **Generative AI:** openai, googleai, Huggingface, Fine tuning, Transfer Learning, Langchain 
 - **Web Development:** Flask, Streamlit
 - **DevOps:** AWS (EC2)
 
