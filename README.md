@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 ## <h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
 <a href="https://madasulaxman028.wixsite.com/laxman-madasu-portfo" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/portfolio.svg" alt="@madasulaxman028" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/laxman madasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman madasu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laxmanmadasu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman madasu" height="30" width="40" /></a>
 <a href="https://medium.com/@madasulaxman028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@madasulaxman028" height="30" width="40" /></a>
 <a href="https://discord.gg/laxman0285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="laxman0285" height="30" width="40" /></a>
 </p>
