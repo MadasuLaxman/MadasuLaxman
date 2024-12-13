@@ -58,12 +58,6 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 - [Medium](https://medium.com/@madasulaxman028)
 
 
-<h3 align="left">Connect with me:  <a href="https://www.linkedin.com/in/laxmanmadasu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laxman Madasu" height="20" width="30" /></a>
-</p></h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Laxmanmadsu&show_icons=true&locale=en" alt="Laxman" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadiyalauday&show_icons=true&locale=en&layout=compact" alt="kadiyalauday" /></p>
-  
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about data science and AI.
