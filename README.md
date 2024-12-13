@@ -1,5 +1,4 @@
 # Hi there, I'm Laxman Madasu! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madasulaxman&label=Profile%20views&color=0e75b6&style=flat" alt="madasulaxman" /> </p>
 
 Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning Engineer with a strong background in developing and deploying data-driven solutions. Here’s a bit about me:
 
@@ -70,3 +69,5 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madasulaxman&" alt="madasulaxman" /></p>
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about data science and AI.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madasulaxman&label=Profile%20views&color=0e75b6&style=flat" alt="madasulaxman" /> </p>
+
